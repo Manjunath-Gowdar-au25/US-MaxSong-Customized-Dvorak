@@ -1,0 +1,1 @@
+In this folder the software are default which means they have not been modified, specially microsoft keyboard layout creator
